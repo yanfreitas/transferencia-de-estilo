@@ -1,4 +1,4 @@
-# transferência de estilo
+# Transferência de estilo
 O código de transferência de estilo(style trannsfer) tem como objetivo criar uma imagem a partir de 2 outras imagens.
 O algoritmo recebe como input uma imagem principal(aquela em que desejamos manter seus componentes principais)
 e uma imagem de estilo(aqui conseguimos extrair apenas a essência da imagem, seu estilo).
